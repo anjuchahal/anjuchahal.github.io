@@ -85,6 +85,13 @@
 		font-weight: 400;
 		color: #363636;
 	}
+	h5 {
+		font-size: 1.15em;
+	}
+
+	h6 {
+		font-size: 1.05em;
+	}
 	
 	blockquote
 	{
@@ -797,6 +804,8 @@
 		.fa-archive:before{content:"\f187"}
 		.fa-bug:before{content:"\f188"}
 		.fa-vk:before{content:"\f189"}
+		.fa-leanpub:before{content: "\f212"}
+		.fa-inbox:before{content: "\f01c";}
 		.fa-weibo:before{content:"\f18a"}
 		.fa-renren:before{content:"\f18b"}
 		.fa-pagelines:before{content:"\f18c"}
